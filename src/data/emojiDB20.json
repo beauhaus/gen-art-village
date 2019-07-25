@@ -1,0 +1,104 @@
+{
+	"emojiArray": [
+		{
+			"icon_id": 0,
+			"label": "Grinning Face",
+			"icon": "😀"
+		},
+		{
+			"icon_id": 1,
+			"label": "Grinning Face With Big Eyes",
+			"icon": "😃"
+		},
+		{
+			"icon_id": 2,
+			"label": "Grinning Face With Smiling Eyes",
+			"icon": "😄"
+		},
+		{
+			"icon_id": 3,
+			"label": "Beaming Face With Smiling Eyes",
+			"icon": "😁"
+		},
+		{
+			"icon_id": 4,
+			"label": "Grinning Squinting Face",
+			"icon": "😆"
+		},
+		{
+			"icon_id": 5,
+			"label": "Grinning Face With Sweat",
+			"icon": "😅"
+		},
+		{
+			"icon_id": 6,
+			"label": "Rolling on the Floor Laughing",
+			"icon": "🤣"
+		},
+		{
+			"icon_id": 7,
+			"label": "Face With Tears of Joy",
+			"icon": "😂"
+		},
+		{
+			"icon_id": 8,
+			"label": "Slightly Smiling Face",
+			"icon": "🙂"
+		},
+		{
+			"icon_id": 9,
+			"label": "Upside-Down Face",
+			"icon": "🙃"
+		},
+		{
+			"icon_id": 10,
+			"label": "Winking Face",
+			"icon": "😉"
+		},
+		{
+			"icon_id": 11,
+			"label": "Smiling Face With Smiling Eyes",
+			"icon": "😊"
+		},
+		{
+			"icon_id": 12,
+			"label": "Smiling Face With Halo",
+			"icon": "😇"
+		},
+		{
+			"icon_id": 13,
+			"label": "Smiling Face With Hearts",
+			"icon": "🥰"
+		},
+		{
+			"icon_id": 14,
+			"label": "Smiling Face With Heart-Eyes",
+			"icon": "😍"
+		},
+		{
+			"icon_id": 15,
+			"label": "Star-Struck",
+			"icon": "🤩"
+		},
+		{
+			"icon_id": 16,
+			"label": "Face Blowing a Kiss",
+			"icon": "😘"
+		},
+		{
+			"icon_id": 17,
+			"label": "Kissing Face",
+			"icon": "😗"
+		},
+		{
+			"icon_id": 18,
+			"label": "Kissing Face With Closed Eyes",
+			"icon": "😚"
+		},
+		{
+			"icon_id": 19,
+			"label": "Kissing Face With Smiling Eyes",
+			"icon": "😙"
+		}
+	]
+}

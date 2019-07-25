@@ -1,23 +1,19 @@
 import React from "react";
 import { render } from "react-dom";
-// import SearchInput from "./SearchInput";
-// import ImageGallery from "./ImageGallery";
-import TopThird from "./background/TopThird";
-import MidThird from "./middleground/MidThird";
-import BottomThird from "./foreground/BottomThird";
-
+import { emojiArray } from "./data/emojiDB20.json";
+import Emoticon from "./Emoticon";
 const App = () => {
   return (
     <div className="app-container">
-      {/*<pre>This is App.js</pre>*/}
-      {`App`}
-      <TopThird />
-      <MidThird />
-      <BottomThird />
+      {emojiArray.map(item => (
+        <Emoticon
+          key={item.icon_id}
+          label={item.label}
+          icon={item.icon}
+        ></Emoticon>
+      ))}
     </div>
   );
 };
 
-// <ImageGallery />
-// <SearchInput />
 render(<App />, document.getElementById("root"));
